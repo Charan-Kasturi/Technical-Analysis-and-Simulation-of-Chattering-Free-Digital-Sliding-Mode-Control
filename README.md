@@ -29,7 +29,7 @@ MATLAB R2023a
 To avoid a circle of projections as suggested in the paper, previoud value is used in System2 and 3.
 
 ## Results
-The detailed technical report for this project can be found at [Technical Report](gdatta_charan03_technical_report.pdf). This report includes comprehensive explanations of the methodologies, simulation results, and discussions on the findings. The Output Results for the three Systems are illustrated below.
+The detailed technical report for this project can be found at [Technical Report](Report.pdf). This report includes comprehensive explanations of the methodologies, simulation results, and discussions on the findings. The Output Results for the three Systems are illustrated below.
 
 ### System 1
 
@@ -46,23 +46,23 @@ The detailed technical report for this project can be found at [Technical Report
 
 ### System 2
 
-![System 2 Result 1](Project/Results/sys2_1.jpg)
+![System 2 Result 1](Results/sys2_1.jpg)
 
-![System 2 Result 2](Project/Results/sys2_2.jpg)
+![System 2 Result 2](Results/sys2_2.jpg)
 
-![System 2 Result 3](Project/Results/sys2_3.jpg)
+![System 2 Result 3](Results/sys2_3.jpg)
 
-![System 2 Result 4](Project/Results/sys2_4.jpg)
+![System 2 Result 4](Results/sys2_4.jpg)
 
 ### System 3
 
-![System 3 Result 1](Project/Results/sys3_1.jpg)
+![System 3 Result 1](Results/sys3_1.jpg)
 
-![System 3 Result 2](Project/Results/sys3_2.jpg)
+![System 3 Result 2](Results/sys3_2.jpg)
 
-![System 3 Result 3](Project/Results/sys3_3.jpg)
+![System 3 Result 3](Results/sys3_3.jpg)
 
-![System 3 Result 4](Project/Results/sys3_4.jpg)
+![System 3 Result 4](Results/sys3_4.jpg)
 
 
 ## References
