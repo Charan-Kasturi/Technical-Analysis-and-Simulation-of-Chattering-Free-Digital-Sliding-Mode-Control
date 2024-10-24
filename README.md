@@ -33,15 +33,15 @@ The detailed technical report for this project can be found at [Technical Report
 
 ### System 1
 
-![System 1 Result 1](Project/Results/sys1_1.jpg)
+![System 1 Result 1](Results/sys1_1.jpg)
 
-![System 1 Result 2](Project/Results/sys1_2.jpg)
+![System 1 Result 2](Results/sys1_2.jpg)
 
-![System 1 Result 3](Project/Results/sys1_3.jpg)
+![System 1 Result 3](Results/sys1_3.jpg)
 
-![System 1 Result 4](Project/Results/sys1_4.jpg)
+![System 1 Result 4](Results/sys1_4.jpg)
 
-![System 1 Result 5](Project/Results/sys1_5.jpg)
+![System 1 Result 5](Results/sys1_5.jpg)
 
 
 ### System 2
